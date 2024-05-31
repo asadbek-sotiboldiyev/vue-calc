@@ -1,24 +1,16 @@
-# vue-1
-
-## Project setup
+# VueJs calc
 ```
-npm install
+VueJs mini loyiha: Calculator.
 ```
-
-### Compiles and hot-reloads for development
+## Ishga tushirish
 ```
 npm run serve
 ```
+![Project preview](calculator.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+> ## Texnalogialar:
+> - HTML + Css
+> - VueJs 
+> - JavaScript
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Developer [Asadbke Sotibldiyev](https://https://github.com/asadbek-sotiboldiyev/)
