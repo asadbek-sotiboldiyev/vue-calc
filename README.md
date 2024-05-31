@@ -14,4 +14,4 @@ npm run serve
 > - JavaScript
 
 ## [Online ishlatish uchun link](https://a-vue-calc.netlify.app/)
-## Developer [Asadbek Sotibldiyev](https://https://github.com/asadbek-sotiboldiyev/)
+## Developer [Asadbek Sotiboldiyev](https://https://github.com/asadbek-sotiboldiyev/)
