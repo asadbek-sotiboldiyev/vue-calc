@@ -78,3 +78,20 @@ body{
 .btn-block{
     width: 47.5%;
 }
+@media(max-width: 480px) {
+    #calc{
+        width: 100%;
+        min-width: auto;
+    }
+    .result{
+        font-size: 40px;
+    }
+    .btn{
+        font-size: 30px;
+        width: 21.5%;
+        padding: 20px 0;
+    }
+    .btn-block{
+        width: 46.5%;
+    }
+}
