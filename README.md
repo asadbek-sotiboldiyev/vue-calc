@@ -13,4 +13,4 @@ npm run serve
 > - VueJs 
 > - JavaScript
 
-## Developer [Asadbke Sotibldiyev](https://https://github.com/asadbek-sotiboldiyev/)
+## Developer [Asadbek Sotibldiyev](https://https://github.com/asadbek-sotiboldiyev/)
